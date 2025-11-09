@@ -37,6 +37,20 @@ Analyzed user purchase behavior and cohort trends using pandas + matplotlib.
 **Domain:** Loyalty Analytics • Fintech KPIs • A/B Testing • Fraud Detection  
 
 ---
+🧠 Tech Stack  
+SQL | Python | BigQuery | Tableau | Looker | APIs  
+
+💡 Skills  
+• SQL (CTEs, Window Functions, Joins)  
+• Python (pandas, numpy, matplotlib, sklearn)  
+• BigQuery / MySQL  
+• Looker Studio / Tableau  
+• HR Analytics (Retention, Hiring Funnel, Attrition)  
+• FinTech KPIs (LTV, CAC, ARPU, Churn)  
+• Dashboarding & Reporting  
+• ETL & Data Cleaning  
+
+e  
 
 ## 📄 Recruiter Resources
 📘 [Portfolio PDF / Case Study](<insert your PDF link>)  
@@ -45,6 +59,6 @@ Analyzed user purchase behavior and cohort trends using pandas + matplotlib.
 ---
 
 ## 📬 Contact
-✉️ **fatimafarman@gmail.com**  
+✉️ **fatimafarman0@gmail.com**  
 🔗 [LinkedIn](https://linkedin.com/in/fatima-farman)
 
