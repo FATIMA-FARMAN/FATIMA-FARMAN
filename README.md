@@ -40,6 +40,7 @@ A Looker-style HR analytics dashboard showing workforce distribution, performanc
 [Repo Link](https://github.com/FATIMA-FARMAN/people_analytics_tabby)
 
 ---
+
 ### 🔹 People Analytics Case Study — Employee Lifecycle Insights & Attrition Strategy
 A complete People Analytics workflow covering SQL (BigQuery), Python, dashboarding (Looker Studio), hiring funnel analytics, attrition prediction, and workforce lifecycle trends.
 
@@ -58,8 +59,7 @@ A complete People Analytics workflow covering SQL (BigQuery), Python, dashboardi
 
 📄 **Full Case Study PDF**  
 [Download — People_Analytics_Case_Study_FULL.pdf](https://github.com/FATIMA-FARMAN/people-analytics-case-study/blob/main/People_Analytics_Case_Study_FULL.pdf)
-
-📁 **Repository**  
+📁 **Repository** 
 [people-analytics-case-study](https://github.com/FATIMA-FARMAN/people-analytics-case-study)
 
 ## 🧰 Tech Stack
