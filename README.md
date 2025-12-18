@@ -1,48 +1,71 @@
-# 👩‍💻 Fatima Farman — Fintech & Product Analytics Specialist
+# 👩‍💻 Fatima Farman — People Data Analyst | Workforce & HR Analytics | SQL, Python, BigQuery | Fintech Experience
 
 **SQL • Python • BigQuery • Tableau | Retention, LTV, Experimentation, Fraud Analytics**
 
-I analyze customer behavior, build automated KPI pipelines, and deliver actionable insights that improve product performance and reduce churn.
-My work includes cohort analysis, LTV modeling, retention dashboards, and end-to-end fraud detection systems.
+People Data Analyst specializing in workforce, hiring, and attrition analytics within fast-growing fintech environments. I design end-to-end people analytics solutions using SQL, Python, BigQuery, and Looker-style dashboards to support leadership decision-making across the employee lifecycle — from hiring and performance to engagement and retention.
 
 ---
-
 ## 🚀 Featured Projects
 
-### 🔹 Loyalty Insights Dashboard (RFM + Retention)
-Cohort-based retention dashboard using Tableau to identify high-value and at-risk customers.  
-📊 [View on Tableau](<insert your Tableau dashboard link>)  
-
-### 🔹 Automated Fintech KPIs
-Automated pipeline generating CAC, LTV, ARPU, and churn metrics via SQL + Python.  
-📁 [Repo Link](https://github.com/FATIMA-FARMAN/automated-fintech-kpis)
-
-### 🔹 Fintech Reporting Pipeline (SQL + Python → Excel/PDF)
-Automated fraud & financial reporting system using Python + SQL + APIs.  
-📁 [Repo Link](https://github.com/FATIMA-FARMAN/Automated-Fintech-Reporting-Pipeline-SQL-Python-Dashboards)
-
-### 🔹 Fraud Detection Project
-Machine learning-based fraud detection pipeline (Isolation Forest, MySQL reporting).  
-📁 [Repo Link](https://github.com/FATIMA-FARMAN/fraud-detection-project)
-
-### 🔹 Transaction Analytics
-Analyzed user purchase behavior and cohort trends using pandas + matplotlib.  
-📁 [Repo Link](https://github.com/FATIMA-FARMAN/transaction-analytics)
- 
-### 🔹 HR Analytics Executive Dashboard (People Analytics – Tabby Style)
-A Looker-style HR analytics dashboard showing workforce distribution, performance insights, attrition trends, and engagement analysis for business decision-making.
+### 🔹 HR Analytics Executive Dashboard — People Analytics (Tabby Style)
+A leadership-ready People Analytics dashboard designed to support **People, Finance, and Leadership** decision-making across the employee lifecycle.  
+Includes workforce distribution, hiring health, attrition trends, performance insights, and engagement signals, built in a Looker-style format.
 
 📊 **Dashboard Preview**
 <p align="center">
   <img src="dashboards/HR_Analytics_Executive_Dashboard.png" width="850">
 </p>
-📁 Repo Link (People Analytics Studio)  
+
+📁 **People Analytics Studio**  
 [Repo Link](https://github.com/FATIMA-FARMAN/people_analytics_tabby)
 
 ---
 
 ### 🔹 People Analytics Case Study — Employee Lifecycle Insights & Attrition Strategy
-A complete People Analytics workflow covering SQL (BigQuery), Python, dashboarding (Looker Studio), hiring funnel analytics, attrition prediction, and workforce lifecycle trends.
+An end-to-end People Analytics case study simulating a high-growth fintech environment.  
+Covers **hiring funnel diagnostics, time-to-hire analysis, attrition modeling (logistic regression), engagement insights, and workforce lifecycle trends** using SQL (BigQuery), Python, and Looker Studio.
+
+📄 **Full Case Study + Insights**  
+📁 Repo Link / PDF
+
+---
+
+### 🔹 Loyalty Insights Dashboard (RFM + Retention)
+Cohort-based customer retention and loyalty dashboard using Tableau to identify high-value and at-risk users through RFM segmentation and behavioral trends.
+
+📊 [View on Tableau](<insert your Tableau dashboard link>)
+
+---
+
+### 🔹 Automated Fintech KPIs
+Automated analytics pipeline generating **CAC, LTV, ARPU, and churn** metrics using SQL + Python, designed for recurring fintech performance tracking and reporting.
+
+📁 [Repo Link](https://github.com/FATIMA-FARMAN/automated-fintech-kpis)
+
+---
+
+### 🔹 Fintech Reporting Pipeline (SQL + Python → Excel/PDF)
+Automated financial and fraud reporting system built with Python, SQL, and APIs, producing scheduled executive-ready Excel and PDF outputs.
+
+📁 [Repo Link](https://github.com/FATIMA-FARMAN/Automated-Fintech-Reporting-Pipeline-SQL-Python-Dashboards)
+
+---
+
+### 🔹 Fraud Detection Project
+Machine learning–based fraud detection pipeline using Isolation Forest, Python, and MySQL, focused on anomaly detection and analytical reporting for transaction risk.
+
+📁 [Repo Link](https://github.com/FATIMA-FARMAN/fraud-detection-project)
+
+---
+
+### 🔹 Transaction Analytics
+Exploratory and cohort-based transaction analytics analyzing user purchase behavior, trends, and retention patterns using pandas and matplotlib.
+
+📁 [Repo Link](https://github.com/FATIMA-FARMAN/transaction-analytics)
+
+---
+
+
 
 📘 **Case Study Overview**
 <p align="center">
