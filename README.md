@@ -28,6 +28,24 @@ Covers **hiring funnel diagnostics, time-to-hire analysis, attrition modeling (l
 📄 **Full Case Study + Insights**  
 📁 Repo Link / PDF
 
+📘 **Case Study Overview**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/FATIMA-FARMAN/people-analytics-case-study/main/cover%20page/cover.png" width="850">
+</p>
+
+🔍 **Focus Areas**
+- Hiring Funnel Analysis  
+- Time-to-Hire Diagnostics  
+- Attrition Modeling (Logistic Regression)  
+- Workforce Lifecycle Trends  
+- People Tech Data Quality Automation  
+- Insights & Recommendations  
+
+📄 **Full Case Study PDF**  
+[Download — People_Analytics_Case_Study_FULL.pdf](https://github.com/FATIMA-FARMAN/people-analytics-case-study/blob/main/People_Analytics_Case_Study_FULL.pdf)
+📁 **Repository** 
+[people-analytics-case-study](https://github.com/FATIMA-FARMAN/people-analytics-case-study)
+
 ---
 
 ### 🔹 Loyalty Insights Dashboard (RFM + Retention)
@@ -64,26 +82,6 @@ Exploratory and cohort-based transaction analytics analyzing user purchase behav
 📁 [Repo Link](https://github.com/FATIMA-FARMAN/transaction-analytics)
 
 ---
-
-
-
-📘 **Case Study Overview**
-<p align="center">
-  <img src="https://raw.githubusercontent.com/FATIMA-FARMAN/people-analytics-case-study/main/cover%20page/cover.png" width="850">
-</p>
-
-🔍 **Focus Areas**
-- Hiring Funnel Analysis  
-- Time-to-Hire Diagnostics  
-- Attrition Modeling (Logistic Regression)  
-- Workforce Lifecycle Trends  
-- People Tech Data Quality Automation  
-- Insights & Recommendations  
-
-📄 **Full Case Study PDF**  
-[Download — People_Analytics_Case_Study_FULL.pdf](https://github.com/FATIMA-FARMAN/people-analytics-case-study/blob/main/People_Analytics_Case_Study_FULL.pdf)
-📁 **Repository** 
-[people-analytics-case-study](https://github.com/FATIMA-FARMAN/people-analytics-case-study)
 
 ## 🧰 Tech Stack
 **Languages:** Python (pandas, numpy, scikit-learn), SQL (PostgreSQL, SQLite, MySQL)  
