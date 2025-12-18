@@ -11,11 +11,6 @@ People Data Analyst specializing in workforce, hiring, and attrition analytics w
 A leadership-ready People Analytics dashboard designed to support **People, Finance, and Leadership** decision-making across the employee lifecycle.  
 Includes workforce distribution, hiring health, attrition trends, performance insights, and engagement signals, built in a Looker-style format.
 
-📊 **Dashboard Preview**
-<p align="center">
-  <img src="dashboards/HR_Analytics_Executive_Dashboard.png" width="850">
-</p>
-
 📁 **People Analytics Studio**  
 [Repo Link](https://github.com/FATIMA-FARMAN/people_analytics_tabby)
 
@@ -29,9 +24,6 @@ Covers **hiring funnel diagnostics, time-to-hire analysis, attrition modeling (l
 📁 Repo Link / PDF
 
 📘 **Case Study Overview**
-<p align="center">
-  <img src="https://raw.githubusercontent.com/FATIMA-FARMAN/people-analytics-case-study/main/cover%20page/cover.png" width="850">
-</p>
 
 🔍 **Focus Areas**
 - Hiring Funnel Analysis  
