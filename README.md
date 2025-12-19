@@ -1,43 +1,45 @@
 # 👩‍💼 Fatima Farman  
 ## People Data Analyst (People Tech) | Workforce & HR Analytics for Fintech
 
-People Data Analyst specializing in **People Analytics and People Tech decision support** for high-growth fintech organizations. I design **executive-ready workforce dashboards** and analytics solutions that help People & HR leadership understand **attrition risk, hiring health, performance distribution, and workforce stability** across the employee lifecycle.
+People Data Analyst specializing in People Analytics and People Tech decision support for high-growth fintech organizations. I design executive-ready workforce dashboards and analytics solutions that help People & HR leadership understand attrition risk, hiring health, performance distribution, and workforce stability across the employee lifecycle.
 
-My focus is translating people data into **clear, actionable insights** that support retention strategy, workforce planning, and leadership decision-making in scaling environments.
+My focus is translating people data into clear, actionable insights that support retention strategy, workforce planning, and leadership decision-making in scaling environments.
 
 ---
 
 ## 🚀 Flagship Project — People Analytics (Tabby Style)
 
-### **People Analytics Executive Dashboard for a High-Growth Fintech**
-A leadership-ready **People Analytics dashboard** designed for **People Tech, HR Business Partners, and Executive teams**.
+### People Analytics Executive Dashboard for a High-Growth Fintech
+A leadership-ready People Analytics dashboard designed for People Tech, HR Business Partners, and Executive teams.
 
 **What it delivers**
-- Headcount & workforce distribution  
+- Headcount and workforce distribution  
 - Attrition analysis by department and tenure  
 - Early-tenure attrition risk identification  
-- Hiring health & lifecycle overview  
+- Hiring health and lifecycle overview  
 - Executive insight panel with recommended actions  
 
-📁 **Repository:**  
+**Business impact**
+- Identified elevated early-tenure attrition patterns, informing onboarding and retention recommendations for People leadership.
+
+📁 **Repository**  
 https://github.com/FATIMA-FARMAN/people_analytics_tabby
 
 ---
 
-## 📊 Supporting People Analytics Work
+## 📊 People Analytics Case Study — Employee Lifecycle & Attrition Strategy
 
-### **People Analytics Case Study — Employee Lifecycle & Attrition Strategy**
-End-to-end People Analytics case study simulating a **fintech scale-up environment**, covering:
+End-to-end People Analytics case study simulating a fintech scale-up environment, covering:
 - Hiring funnel diagnostics  
 - Time-to-hire analysis  
 - Attrition modeling (logistic regression)  
 - Workforce lifecycle trends  
 - Actionable retention recommendations  
 
-📄 **Case Study PDF:**  
+📄 **Case Study PDF**  
 https://github.com/FATIMA-FARMAN/people-analytics-case-study/blob/main/People_Analytics_Case_Study_FULL.pdf  
 
-📁 **Repository:**  
+📁 **Repository**  
 https://github.com/FATIMA-FARMAN/people-analytics-case-study
 
 ---
@@ -49,18 +51,17 @@ These projects support my broader analytics foundation within fintech environmen
 - **Automated Fintech KPIs** — CAC, LTV, ARPU, churn reporting  
   https://github.com/FATIMA-FARMAN/automated-fintech-kpis  
 
-- **Fraud Detection & Transaction Analytics** — anomaly detection & behavioral analysis  
+- **Fraud Detection & Transaction Analytics** — anomaly detection and behavioral analysis  
   https://github.com/FATIMA-FARMAN/fraud-detection-project  
   https://github.com/FATIMA-FARMAN/transaction-analytics  
 
 ---
 
 ## 🧰 Tools & Technologies
-- **People Analytics:** Attrition, headcount, hiring funnel, performance distribution  
-- **Data:** SQL (BigQuery, PostgreSQL, MySQL, SQLite), Python (pandas, scikit-learn)  
-- **Visualization:** Power BI, Tableau, Looker-style dashboards  
+- People Analytics: Attrition, headcount, hiring funnel, performance distribution  
+- Data: SQL (BigQuery, PostgreSQL, MySQL, SQLite), Python (pandas, scikit-learn)  
+- Visualization: Power BI, Tableau, Looker-style dashboards  
 
----
 
 
 ## 📄 Recruiter Resources
