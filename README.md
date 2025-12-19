@@ -1,86 +1,67 @@
-# 👩‍💻 Fatima Farman — People Data Analyst | Workforce & HR Analytics | SQL, Python, BigQuery | Fintech Experience
+# 👩‍💼 Fatima Farman  
+## People Data Analyst (People Tech) | Workforce & HR Analytics for Fintech
 
-**SQL • Python • BigQuery • Tableau | Retention, LTV, Experimentation, Fraud Analytics**
+People Data Analyst specializing in **People Analytics and People Tech decision support** for high-growth fintech organizations. I design **executive-ready workforce dashboards** and analytics solutions that help People & HR leadership understand **attrition risk, hiring health, performance distribution, and workforce stability** across the employee lifecycle.
 
-People Data Analyst specializing in workforce, hiring, and attrition analytics within fast-growing fintech environments. I design end-to-end people analytics solutions using SQL, Python, BigQuery, and Looker-style dashboards to support leadership decision-making across the employee lifecycle — from hiring and performance to engagement and retention.
-
----
-## 🚀 Featured Projects
-
-### 🔹 HR Analytics Executive Dashboard — People Analytics (Tabby Style)
-A leadership-ready People Analytics dashboard designed to support **People, Finance, and Leadership** decision-making across the employee lifecycle.  
-Includes workforce distribution, hiring health, attrition trends, performance insights, and engagement signals, built in a Looker-style format.
-
-📁 **People Analytics Studio**  
-[Repo Link](https://github.com/FATIMA-FARMAN/people_analytics_tabby)
+My focus is translating people data into **clear, actionable insights** that support retention strategy, workforce planning, and leadership decision-making in scaling environments.
 
 ---
 
-### 🔹 People Analytics Case Study — Employee Lifecycle Insights & Attrition Strategy
-An end-to-end People Analytics case study simulating a high-growth fintech environment.  
-Covers **hiring funnel diagnostics, time-to-hire analysis, attrition modeling (logistic regression), engagement insights, and workforce lifecycle trends** using SQL (BigQuery), Python, and Looker Studio.
+## 🚀 Flagship Project — People Analytics (Tabby Style)
 
-📄 **Full Case Study + Insights**  
-📁 Repo Link / PDF
+### **People Analytics Executive Dashboard for a High-Growth Fintech**
+A leadership-ready **People Analytics dashboard** designed for **People Tech, HR Business Partners, and Executive teams**.
 
-📘 **Case Study Overview**
+**What it delivers**
+- Headcount & workforce distribution  
+- Attrition analysis by department and tenure  
+- Early-tenure attrition risk identification  
+- Hiring health & lifecycle overview  
+- Executive insight panel with recommended actions  
 
-🔍 **Focus Areas**
-- Hiring Funnel Analysis  
-- Time-to-Hire Diagnostics  
-- Attrition Modeling (Logistic Regression)  
-- Workforce Lifecycle Trends  
-- People Tech Data Quality Automation  
-- Insights & Recommendations  
-
-📄 **Full Case Study PDF**  
-[Download — People_Analytics_Case_Study_FULL.pdf](https://github.com/FATIMA-FARMAN/people-analytics-case-study/blob/main/People_Analytics_Case_Study_FULL.pdf)
-📁 **Repository** 
-[people-analytics-case-study](https://github.com/FATIMA-FARMAN/people-analytics-case-study)
+📁 **Repository:**  
+https://github.com/FATIMA-FARMAN/people_analytics_tabby
 
 ---
 
-### 🔹 Loyalty Insights Dashboard (RFM + Retention)
-Cohort-based customer retention and loyalty dashboard using Tableau to identify high-value and at-risk users through RFM segmentation and behavioral trends.
+## 📊 Supporting People Analytics Work
 
-📊 [View on Tableau](<insert your Tableau dashboard link>)
+### **People Analytics Case Study — Employee Lifecycle & Attrition Strategy**
+End-to-end People Analytics case study simulating a **fintech scale-up environment**, covering:
+- Hiring funnel diagnostics  
+- Time-to-hire analysis  
+- Attrition modeling (logistic regression)  
+- Workforce lifecycle trends  
+- Actionable retention recommendations  
 
----
+📄 **Case Study PDF:**  
+https://github.com/FATIMA-FARMAN/people-analytics-case-study/blob/main/People_Analytics_Case_Study_FULL.pdf  
 
-### 🔹 Automated Fintech KPIs
-Automated analytics pipeline generating **CAC, LTV, ARPU, and churn** metrics using SQL + Python, designed for recurring fintech performance tracking and reporting.
-
-📁 [Repo Link](https://github.com/FATIMA-FARMAN/automated-fintech-kpis)
-
----
-
-### 🔹 Fintech Reporting Pipeline (SQL + Python → Excel/PDF)
-Automated financial and fraud reporting system built with Python, SQL, and APIs, producing scheduled executive-ready Excel and PDF outputs.
-
-📁 [Repo Link](https://github.com/FATIMA-FARMAN/Automated-Fintech-Reporting-Pipeline-SQL-Python-Dashboards)
+📁 **Repository:**  
+https://github.com/FATIMA-FARMAN/people-analytics-case-study
 
 ---
 
-### 🔹 Fraud Detection Project
-Machine learning–based fraud detection pipeline using Isolation Forest, Python, and MySQL, focused on anomaly detection and analytical reporting for transaction risk.
+## 📈 Additional Analytics Experience (Fintech & Risk)
 
-📁 [Repo Link](https://github.com/FATIMA-FARMAN/fraud-detection-project)
+These projects support my broader analytics foundation within fintech environments:
+
+- **Automated Fintech KPIs** — CAC, LTV, ARPU, churn reporting  
+  https://github.com/FATIMA-FARMAN/automated-fintech-kpis  
+
+- **Fraud Detection & Transaction Analytics** — anomaly detection & behavioral analysis  
+  https://github.com/FATIMA-FARMAN/fraud-detection-project  
+  https://github.com/FATIMA-FARMAN/transaction-analytics  
+
+---
+
+## 🧰 Tools & Technologies
+- **People Analytics:** Attrition, headcount, hiring funnel, performance distribution  
+- **Data:** SQL (BigQuery, PostgreSQL, MySQL, SQLite), Python (pandas, scikit-learn)  
+- **Visualization:** Power BI, Tableau, Looker-style dashboards  
 
 ---
 
-### 🔹 Transaction Analytics
-Exploratory and cohort-based transaction analytics analyzing user purchase behavior, trends, and retention patterns using pandas and matplotlib.
-
-📁 [Repo Link](https://github.com/FATIMA-FARMAN/transaction-analytics)
-
----
-
-## 🧰 Tech Stack
-**Languages:** Python (pandas, numpy, scikit-learn), SQL (PostgreSQL, SQLite, MySQL)  
-**Visualization:** Tableau, Power BI, Matplotlib, Plotly  
-**Domain:** Loyalty Analytics • Fintech KPIs • A/B Testing • Fraud Detection  
-
----
 
 ## 📄 Recruiter Resources
 📘 [Portfolio PDF / Case Study](<insert your PDF link>)  
