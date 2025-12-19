@@ -59,10 +59,9 @@ These projects support my broader analytics foundation within fintech environmen
 
 ## 🧰 Tools & Technologies
 - People Analytics: Attrition, headcount, hiring funnel, performance distribution  
-- Data: SQL (BigQuery, PostgreSQL, MySQL, SQLite), Python (pandas, scikit-learn)  
-- Visualization: Power BI, Tableau, Looker-style dashboards  
-
-
+- Data & Analysis: SQL (BigQuery, PostgreSQL, MySQL, SQLite), Python (pandas, scikit-learn)  
+- Visualization & Reporting: Power BI, Tableau, Looker-style dashboards  
+ 
 
 ## 📄 Recruiter Resources
 📘 [Portfolio PDF / Case Study](<insert your PDF link>)  
