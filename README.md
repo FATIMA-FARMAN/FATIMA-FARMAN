@@ -1,78 +1,102 @@
 # 👩‍💼 Fatima Farman  
 ## People Data Analyst (People Tech) | Workforce & HR Analytics for Fintech
 
-People Data Analyst specializing in People Analytics and People Tech decision support for high-growth fintech organizations. I design executive-ready workforce dashboards and analytics solutions that help People & HR leadership understand attrition risk, hiring health, performance distribution, and workforce stability across the employee lifecycle.
+People Data Analyst focused on **People Tech decision support** in high-growth fintech environments.  
+My work enables **People leaders, HR Business Partners, and executives** to make faster, better decisions during periods of rapid organizational scale.
 
-My focus is translating people data into clear, actionable insights that support retention strategy, workforce planning, and leadership decision-making in scaling environments.
+I specialize in translating people data into **clear executive insights** across the employee lifecycle — from hiring and onboarding to performance, retention, and workforce stability.
 
 ---
 
-## 🚀 Flagship Project — People Analytics (Tabby Style)
+## 🚀 Flagship Work — People Analytics (Fintech / Tabby-Style)
 
 ### People Analytics Executive Dashboard for a High-Growth Fintech
-Leadership-ready People Analytics dashboard for People Tech, HRBPs,
-and executive decision-making in a high-growth fintech.
 
-**What it delivers**
-- Headcount and workforce distribution  
-- Attrition analysis by department and tenure  
-- Early-tenure attrition risk identification  
-- Hiring health and lifecycle overview  
-- Executive insight panel with recommended actions  
+Leadership-ready People Analytics solution designed to support **People Tech, HRBPs, and executive leadership** in a scaling fintech context.
 
-**Business impact**
-- Identified elevated early-tenure attrition patterns, informing onboarding and retention recommendations for People leadership.
+**Decisions this work supports**
+- Where attrition risk is concentrated and why  
+- Which teams and tenure bands require retention intervention  
+- How healthy the hiring funnel is during growth phases  
+- Whether workforce composition supports long-term scale  
 
-📁 **Repository**  
+**Key Deliverables**
+- Headcount and workforce distribution
+- Attrition analysis by department, tenure, and performance
+- Early-tenure attrition risk identification
+- Hiring health and lifecycle overview
+- Executive insight panel with recommended actions
+
+**Business Impact**
+- Identified elevated early-tenure attrition patterns, informing onboarding improvements and targeted retention strategies for People leadership.
+
+🔗 **Repository:**  
 https://github.com/FATIMA-FARMAN/people_analytics_tabby
 
 ---
 
 ## 📊 People Analytics Case Study — Employee Lifecycle & Attrition Strategy
 
-End-to-end People Analytics case study simulating a fintech scale-up environment, covering:
-- Hiring funnel diagnostics  
-- Time-to-hire analysis  
-- Attrition modeling (logistic regression)  
-- Workforce lifecycle trends  
-- Actionable retention recommendations  
+End-to-end People Analytics case study simulating a fintech scale-up environment, focused on **decision-making rather than reporting**.
 
-📄 **Case Study PDF**  
+**Scope**
+- Hiring funnel diagnostics and time-to-hire analysis
+- Workforce lifecycle trend analysis
+- Attrition modeling (logistic regression)
+- Actionable retention recommendations for leadership
+
+📄 **Case Study (PDF):**  
 https://github.com/FATIMA-FARMAN/people-analytics-case-study/blob/main/People_Analytics_Case_Study_FULL.pdf  
 
-📁 **Repository**  
+🔗 **Repository:**  
 https://github.com/FATIMA-FARMAN/people-analytics-case-study
 
 ---
 
-## 📈 Additional Analytics Experience (Fintech & Risk)
+## 📈 Supporting Analytics Experience (Fintech & Risk Context)
 
-These projects support my broader analytics foundation within fintech environments:
+These projects strengthen my People Analytics work by adding **financial, KPI, and risk context** common in fintech organizations.
 
 - **Automated Fintech KPIs** — CAC, LTV, ARPU, churn reporting  
-  https://github.com/FATIMA-FARMAN/automated-fintech-kpis  
+  https://github.com/FATIMA-FARMAN/automated-fintech-kpis
 
 - **Fraud Detection & Transaction Analytics** — anomaly detection and behavioral analysis  
   https://github.com/FATIMA-FARMAN/fraud-detection-project  
-  https://github.com/FATIMA-FARMAN/transaction-analytics  
+  https://github.com/FATIMA-FARMAN/transaction-analytics
 
 ---
 
 ## 🧰 Tools & Technologies
-- People Analytics: Attrition, headcount, hiring funnel, performance distribution  
-- Data & Analysis: SQL (BigQuery, PostgreSQL, MySQL, SQLite), Python (pandas, scikit-learn)  
-- Visualization & Reporting: Power BI, Tableau, Looker-style dashboards  
- 
 
-## 📄 Recruiter Resources
-📘 [Portfolio PDF / Case Study](<insert your PDF link>)  
-📄 [Resume](<insert your Google Drive or GitHub link>)  
+**People Analytics**
+- Attrition, headcount, hiring funnel, performance distribution
+
+**Data & Analysis**
+- SQL (BigQuery, PostgreSQL, MySQL, SQLite)
+- Python (pandas, NumPy, scikit-learn)
+
+**Visualization & Reporting**
+- Power BI
+- Tableau
+- Looker-style executive dashboards
 
 ---
 
-## 📬 Contact
-✉️ **fatimafarman@gmail.com**  
-🔗 [LinkedIn](https://linkedin.com/in/fatima-farman)
+## 📁 Recruiter Resources
 
+📄 **Download Portfolio — People Analytics Case Studies**  
+📄 **Download Resume — People Data Analyst (Fintech)**  
 
+---
 
+## 🎯 Role Alignment
+
+Best suited for:
+- People Data Analyst / People Analytics roles  
+- People Tech teams in fintech and high-growth technology companies  
+
+My strength lies in **bridging people data and executive decision-making**, particularly during periods of rapid growth and organizational change.
+
+---
+
+⭐ The pinned repositories below represent my most relevant and decision-focused People Analytics work.
