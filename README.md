@@ -10,7 +10,8 @@ My focus is translating people data into clear, actionable insights that support
 ## 🚀 Flagship Project — People Analytics (Tabby Style)
 
 ### People Analytics Executive Dashboard for a High-Growth Fintech
-A leadership-ready People Analytics dashboard designed for People Tech, HR Business Partners, and Executive teams.
+Leadership-ready People Analytics dashboard for People Tech, HRBPs,
+and executive decision-making in a high-growth fintech.
 
 **What it delivers**
 - Headcount and workforce distribution  
