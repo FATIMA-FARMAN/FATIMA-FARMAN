@@ -1,10 +1,20 @@
 # 👩‍💼 Fatima Farman  
 ## People Data Analyst (People Tech) | Workforce & HR Analytics for Fintech
 
-People Data Analyst focused on **People Tech decision support** in high-growth fintech environments.  
-My work enables **People leaders, HR Business Partners, and executives** to make faster, better decisions during periods of rapid organizational scale.
+**Open to People Data Analyst / People Tech roles (Fintech).** Remote-first or relocation (KSA/UAE/Europe).  
+**Email:** fatimafarman0@gmail.com  |  **LinkedIn:** https://www.linkedin.com/in/fatima-ali-b524a3204/ |  **GitHub:** https://github.com/FATIMA-FARMAN
 
-I translate people data into **clear executive insights** across the employee lifecycle — from hiring and onboarding to performance, retention, and workforce stability.
+---
+
+## TL;DR
+**Focus:** Attrition risk, hiring funnel health, time-to-hire bottlenecks, executive People dashboards  
+**Tools:** SQL (BigQuery) • Python (pandas, NumPy, scikit-learn) • Looker Studio • Power BI / Tableau  
+**Strength:** End-to-end analytics: HRIS + ATS → warehouse-style marts → leadership-ready dashboards
+
+> Note: Projects use **simulated HRIS/ATS data** to demonstrate methodology, modeling, and dashboard design.
+
+People Data Analyst (People Tech) enabling faster decisions for **People leaders, HRBPs, and executives** in high-growth fintech.
+I translate HRIS/ATS data into **executive insights** across hiring, performance, retention, and workforce stability.
 
 ---
 
@@ -29,6 +39,9 @@ https://github.com/FATIMA-FARMAN/people_analytics_dwh
 
 📊 **Live Dashboard (Looker Studio — view-only):**  
 https://lookerstudio.google.com/s/qtmtqTS2tmc  
+## Screenshots
+### Executive Overview
+![Executive Overview](https://raw.githubusercontent.com/FATIMA-FARMAN/people_analytics_dwh/main/Screenshot%202025-12-23%20at%2005.31.30.png)
 
 ---
 
