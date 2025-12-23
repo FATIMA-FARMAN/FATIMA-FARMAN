@@ -4,15 +4,36 @@
 People Data Analyst focused on **People Tech decision support** in high-growth fintech environments.  
 My work enables **People leaders, HR Business Partners, and executives** to make faster, better decisions during periods of rapid organizational scale.
 
-I specialize in translating people data into **clear executive insights** across the employee lifecycle — from hiring and onboarding to performance, retention, and workforce stability.
+I translate people data into **clear executive insights** across the employee lifecycle — from hiring and onboarding to performance, retention, and workforce stability.
 
 ---
 
 ## 🚀 Flagship Work — People Analytics (Fintech / Tabby-Style)
 
-### People Analytics Executive Dashboard for a High-Growth Fintech
+### 1) People Analytics DWH + Executive Dashboard (HRIS + ATS → BigQuery → Looker Studio)
+End-to-end People Analytics workflow demonstrating **warehouse-style thinking** (sources → marts → dashboards) and **leadership-ready reporting**.
 
-Leadership-ready People Analytics solution designed to support **People Tech, HRBPs, and executive leadership** in a scaling fintech context.
+**What it answers**
+- Where attrition risk is concentrated (by department / location / job level)
+- Where the hiring process bottlenecks (avg days in stage)
+- How healthy the funnel is (applications → offers → accepts)
+- What leadership should prioritize this period
+
+**Key Deliverables**
+- Executive KPI row (headcount, attrition, early terminations, time-in-stage, offer accept rate)
+- Filters for leadership (Department / Location / Job level / Date)
+- Funnel + bottleneck views designed for action, not reporting
+
+🔗 **Repository:**  
+https://github.com/FATIMA-FARMAN/people_analytics_dwh  
+
+📊 **Live Dashboard (Looker Studio — view-only):**  
+https://lookerstudio.google.com/s/qtmtqTS2tmc  
+
+---
+
+### 2) People Analytics Executive Dashboard for a High-Growth Fintech (Tabby-Style)
+Leadership-ready People Analytics dashboard designed to support **People Tech, HRBPs, and executive leadership** in a scaling fintech context.
 
 **Decisions this work supports**
 - Where attrition risk is concentrated and why  
