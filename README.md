@@ -107,12 +107,15 @@ These add financial context to my People Analytics work, showing cross-functiona
 💳 transaction-analytics
 : Risk & transaction insights
 
-🧰 Tools & Technologies
-Category	Tools
-Data & Analytics	SQL (BigQuery, PostgreSQL), Python (pandas, NumPy, scikit-learn)
-Visualization	Power BI, Tableau, Looker Studio
-People Metrics	Headcount, attrition, offer accept rate, time-in-stage
-End-to-End Flow	HRIS/ATS → Warehouse Marts → Executive Dashboards# 
+## 🧰 Tools & Technologies
+
+| Category          | Tools                                                                 |
+|------------------|-----------------------------------------------------------------------|
+| **Data & Analysis**  | SQL (BigQuery, PostgreSQL), Python (pandas, NumPy, scikit-learn)    |
+| **Visualization**    | Power BI, Tableau, Looker Studio                                    |
+| **People Metrics**   | Headcount, attrition, offer accept rate, time-in-stage              |
+| **End-to-End Flow**  | HRIS/ATS → Warehouse Marts → Executive Dashboards                   |
+
 
 ---
 
