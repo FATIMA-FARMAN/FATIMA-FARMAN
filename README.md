@@ -36,6 +36,7 @@ Projects simulate real-world fintech HR environments using mock HRIS/ATS dataset
 1️⃣ People Analytics Data Warehouse + Executive Dashboard
 
 📁 people_analytics_dwh
+💼 Business Outcome: Prioritized key attrition risk zones and hiring delays to support leadership action planning.
 
 📊 Live Dashboard (Looker Studio – view only)
 
@@ -81,9 +82,11 @@ Executive panel with recommended actions
 Identified risk segments driving early attrition → informed onboarding improvements and retention strategies.
 
 3️⃣ 📄 People Analytics Case Study (Lifecycle + Attrition Strategy)
+💼 Business Outcome: Simulated a full lifecycle analytics engagement to guide strategic HR decisions in a fintech scale-up.
 
 📁 people-analytics-case-study
 
+📘 Full case study (PDF): End-to-end simulation of a People Analytics engagement — from diagnostics to executive recommendations.
 📄 Download Case Study PDF
 
 🧪 Simulates a full analytics workflow for a scaling fintech:
@@ -107,23 +110,27 @@ These add financial context to my People Analytics work, showing cross-functiona
 💳 transaction-analytics
 : Risk & transaction insights
 
+
 ## 🧰 Tools & Technologies
 
-| Category          | Tools                                                                 |
-|------------------|-----------------------------------------------------------------------|
-| **Data & Analysis**  | SQL (BigQuery, PostgreSQL), Python (pandas, NumPy, scikit-learn)    |
-| **Visualization**    | Power BI, Tableau, Looker Studio                                    |
-| **People Metrics**   | Headcount, attrition, offer accept rate, time-in-stage              |
-| **End-to-End Flow**  | HRIS/ATS → Warehouse Marts → Executive Dashboards                   |
+| Category         | Tools                                                           |
+|------------------|-----------------------------------------------------------------|
+| **Data & Analysis** | SQL (BigQuery, PostgreSQL), Python (pandas, NumPy, scikit-learn) |
+| **Visualization**   | Power BI, Tableau, Looker Studio                               |
+| **People Metrics**  | Headcount, attrition, offer accept rate, time-in-stage         |
+| **End-to-End Flow** | HRIS/ATS → Warehouse Marts → Executive Dashboards              |
 
+---
+
+## 🌟 Featured Projects...
 
 ---
 
 
 ## 📁 Recruiter Resources
-
-📄 **Download Portfolio — People Analytics Case Studies**  
-📄 **Download Resume — People Data Analyst (Fintech)**  
+📁 [Download Portfolio – People Analytics Case Studies](#) *(Updated: Dec 2025)*  
+📄 [Download Resume – People Data Analyst (Fintech)](#) *(Updated: Dec 2025)*
+)**  
 
 ---
 
