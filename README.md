@@ -13,6 +13,8 @@ TL;DR — What I Do
 I build end-to-end People Analytics pipelines that turn HRIS + ATS data into actionable dashboards for hiring leaders and executives.
 
 ✅ Focus Areas:
+ 
+“Focused on analytics engineering, dbt modeling, and executive-ready people metrics for high-growth fintechs.”
 
 Attrition modeling & risk prediction
 
