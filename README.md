@@ -46,38 +46,3 @@ I build **end-to-end analytics systems** that turn **HRIS + ATS + transaction da
 ⭐ Pinned repos below = my strongest proof.
 
 
-
-## 🧰 Tools & Technologies
-
-| Category         | Tools                                                           |
-|------------------|-----------------------------------------------------------------|
-| **Data & Analysis** | SQL (BigQuery, PostgreSQL), Python (pandas, NumPy, scikit-learn) |
-| **Visualization**   | Power BI, Tableau, Looker Studio                               |
-| **People Metrics**  | Headcount, attrition, offer accept rate, time-in-stage         |
-| **End-to-End Flow** | HRIS/ATS → Warehouse Marts → Executive Dashboards              |
-
----
-
-## 🌟 Featured Projects...
-
----
-
-
-## 📁 Recruiter Resources
-📁 [Download Portfolio – People Analytics Case Studies](#) *(Updated: Dec 2025)*  
-📄 [Download Resume – People Data Analyst (Fintech)](#) *(Updated: Dec 2025)*
-)**  
-
----
-
-## 🎯 Role Alignment
-
-Best suited for:
-- People Data Analyst / People Analytics roles  
-- People Tech teams in fintech and high-growth technology companies  
-
-My strength lies in **bridging people data and executive decision-making**, particularly during periods of rapid growth and organizational change.
-
----
-
-⭐ The pinned repositories below represent my most relevant and decision-focused People Analytics work.
