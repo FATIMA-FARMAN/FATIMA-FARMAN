@@ -1,35 +1,72 @@
-# Fatima Farman — Analytics Engineer | People Analytics (dbt + BigQuery + Airflow)
+# Fatima Farman — Analytics Engineer | People Analytics + FinTech (dbt + BigQuery + Airflow)
 
 I own analytics domains end-to-end (**modeling → QA → orchestration → BI**) that transform **HRIS + ATS + transaction data** into **tested marts + executive dashboards** using **dbt + BigQuery + Airflow + CI**.  
-Supports hiring leaders with **stage conversion, drop-offs, bottlenecks, and funnel performance trends** in a single executive view.
 
-**Open to:** Analytics Engineer (People domain) • People Data Analyst • People Analytics  
+Supports hiring leaders with **stage conversion, drop-offs, bottlenecks, and funnel performance trends** in a single executive view. Built production-grade **BNPL payment analytics** processing $9.1M GMV with 60 automated quality tests.
+
+**Open to:** Analytics Engineer (People domain / FinTech) • People Data Analyst • Payments Analytics  
 🌍 Remote / UAE / KSA / Europe | 📍 Karachi, Pakistan  
-📧 fatimafarman0@gmail.com · LinkedIn: https://www.linkedin.com/in/fatima-ali-b524a3204/
+📧 fatimafarman0@gmail.com · LinkedIn: https://www.linkedin.com/in/fatima-farman
 
 ---
 
 ## Proof (receipts, not claims)
 
+### People Analytics Domain
 - ✅ **dbt tests + QA automation:** `python qa/run_qa.py` → `qa/reports/qa_report.md`  
   Latest run: **PASS = 13** tests in the People Analytics domain.  
   Proof: `proof/dbt_test_pass_13.png`
-
 - ✅ **Airflow orchestration:** daily dbt pipeline via `dbt_people_analytics_daily` DAG  
   Proof: `proof/airflow_dag_success.png`
-
-- ✅ **Marts delivered (People Analytics):**  
+- ✅ **Marts delivered:**  
   `dim_employee`, `fct_hiring_funnel`, `fct_hiring_funnel_incremental`  
   Contracts + tests: `domains/people_analytics/models/marts/schema.yml`
-
 - ✅ **Executive dashboard:** Hiring Funnel Overview (Looker Studio)  
-  Proof: `proof/looker_funnel_dashboard.png` + public dashboard/link
+  Proof: `proof/looker_funnel_dashboard.png`
+
+### FinTech BNPL Analytics
+- ✅ **Production-grade dbt models:** 12 models (staging → intermediate → marts)  
+  **PASS = 60** automated tests with 0 errors  
+  Proof: `docs/images/test_results.png`
+- ✅ **Full data lineage:** Interactive documentation with DAG visualization  
+  Proof: `docs/images/lineage_graph.png`
+- ✅ **Incremental processing:** Partitioned by date, clustered by merchant/customer  
+  Proof: `docs/images/model_details.png`
+- ✅ **Business metrics:** $9.1M GMV, 50K transactions, 77.3% BNPL adoption  
+  Repo: https://github.com/FATIMA-FARMAN/fintech-bnpl-analytics
 
 ---
 
 ## Featured projects
 
-### 1) Analytics Domain Ownership — People Analytics + Payments (Flagship)
+### 1) FinTech BNPL Analytics Platform
+**dbt · DuckDB · Airflow · SQL · Data Quality**
+
+Production-grade Buy Now Pay Later analytics domain modeling Tabby's payment infrastructure. Processes $9.1M GMV across 50,000 transactions with comprehensive testing and monitoring.
+
+**Technical Highlights:**
+- 12 dbt models: 4 staging → 3 intermediate → 5 marts (facts + dimensions)
+- 60 automated data quality tests (100% pass rate)
+- Incremental materialization with partitioning by date, clustering by merchant/customer
+- Full data lineage documentation with interactive DAG
+- Airflow orchestration with daily 2 AM UTC runs
+
+**Business Value:**
+- Merchant performance tracking (GMV, capture rate, fraud rate by tier)
+- Customer risk scoring (on-time payment rate 93.7%, default rate 0.4%)
+- BNPL portfolio health monitoring (77.3% adoption rate)
+- Repayment analytics across 141K installments
+
+**Proof:**
+- Repo: https://github.com/FATIMA-FARMAN/fintech-bnpl-analytics
+- Test results: 60 PASS, 0 ERROR (`docs/images/test_results.png`)
+- Full lineage graph (`docs/images/lineage_graph.png`)
+- Model documentation (`docs/images/model_details.png`)
+- README with architecture diagram & sample queries
+
+---
+
+### 2) Analytics Domain Ownership — People Analytics (Flagship)
 **dbt · BigQuery · Airflow · CI · Data Contracts**
 
 End-to-end People Analytics domain with staging → intermediate → marts, contracts/tests, orchestration, QA runner, and an executive hiring funnel dashboard.
@@ -43,7 +80,7 @@ End-to-end People Analytics domain with staging → intermediate → marts, cont
 
 ---
 
-### 2) People Analytics DWH + Executive Dashboard
+### 3) People Analytics DWH + Executive Dashboard
 **BigQuery · dbt · Looker Studio**
 
 People Analytics warehouse for **headcount, hiring funnel, and attrition**, modeled into BI-ready marts and surfaced in an executive dashboard.
@@ -55,7 +92,7 @@ People Analytics warehouse for **headcount, hiring funnel, and attrition**, mode
 
 ---
 
-### 3) Fraud Detection Pipeline (FinTech Risk)
+### 4) Fraud Detection Pipeline (FinTech Risk)
 **Python · SQL · ML · Reporting**
 
 Fraud detection prototype on transaction data: feature engineering, model training, evaluation, and risk reporting.
@@ -69,8 +106,26 @@ Fraud detection prototype on transaction data: feature engineering, model traini
 ---
 
 ## Stack
-SQL (BigQuery) · dbt · Airflow · Python · GitHub Actions · Looker Studio / Tableau
 
+**Core:** SQL (BigQuery) · dbt · Airflow · Python · GitHub Actions  
+**Databases:** BigQuery · DuckDB · PostgreSQL  
+**BI:** Looker Studio · Tableau  
+**Testing:** dbt_utils · dbt_expectations · Great Expectations  
+**Domains:** People Analytics · Payments Analytics · Risk Analytics
+
+---
+
+## Certifications
+
+- **dbt Analytics Engineering** (in progress)
+- **Google Cloud Platform:** Data Engineer, Data Analyst
+- **University of Pennsylvania:** People Analytics, Customer Analytics, Operations Analytics, Accounting Analytics
+
+---
+
+⭐ **Open to Analytics Engineering roles in People Analytics or FinTech/Payments domains**
+
+📧 For collaboration or opportunities: fatimafarman0@gmail.com
 
 
 
