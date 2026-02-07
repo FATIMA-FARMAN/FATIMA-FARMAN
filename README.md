@@ -1,4 +1,4 @@
-# Fatima Farman — Analytics Engineer | People Analytics + FinTech (dbt + BigQuery + Airflow)
+# Fatima Farman — Analytics Engineer | Product nalytics + FinTech (dbt + BigQuery + Airflow)
 
 I own analytics domains end-to-end (**modeling → QA → orchestration → BI**) that transform **HRIS + ATS + transaction data** into **tested marts + executive dashboards** using **dbt + BigQuery + Airflow + CI**.  
 
@@ -65,8 +65,41 @@ Production-grade Buy Now Pay Later analytics domain modeling Tabby's payment inf
 - README with architecture diagram & sample queries
 
 ---
+### 2) SuperApp Customer Lifecycle Analytics Platform (BNPL + Loyalty + Engagement)
+**dbt · DuckDB · Airflow · SQL · Product Analytics**
 
-### 2) Analytics Domain Ownership — People Analytics (Flagship)
+End-to-end **customer lifecycle analytics platform** for a simulated **FinTech SuperApp** integrating **BNPL, engagement, and loyalty**. Built to mirror **Tabby-scale product analytics**, enabling activation, retention, reactivation, and loyalty analysis on production-style datasets.
+
+**Technical Highlights**
+- Layered dbt project: **staging → intermediate → marts**
+- Lifecycle-focused marts:
+  - `fct_customer_activation`
+  - `fct_customer_retention`
+  - `fct_reactivation_events`
+  - `fct_loyalty_engagement`
+- Incremental models optimized for event-level data
+- DuckDB-backed analytics warehouse (fast, portable, reproducible)
+- Analytics-ready schemas for **A/B testing & experimentation**
+- Airflow orchestration for repeatable lifecycle pipelines
+
+**Business & Product Analytics**
+- Activation funnel analysis (signup → first BNPL → repeat usage)
+- Retention & cohort tracking (D7 / D30 behavior)
+- Reactivation patterns after inactivity
+- Loyalty engagement signals tied to repeat GMV
+- Cross-product usage analysis inside a SuperApp ecosystem
+
+**Why this project matters**
+- Demonstrates **Product Analytics + Analytics Engineering** ownership
+- Extends beyond payments into **customer behavior & growth**
+- Directly aligned with **SuperApp / BNPL / FinTech product teams**
+
+**Proof**
+- Repo: https://github.com/FATIMA-FARMAN/superapp-lifecycle-analytics  
+- README includes lifecycle metrics, dbt models, and business framing
+----
+
+### 3) Analytics Domain Ownership — People Analytics (Flagship)
 **dbt · BigQuery · Airflow · CI · Data Contracts**
 
 End-to-end People Analytics domain with staging → intermediate → marts, contracts/tests, orchestration, QA runner, and an executive hiring funnel dashboard.
@@ -80,7 +113,7 @@ End-to-end People Analytics domain with staging → intermediate → marts, cont
 
 ---
 
-### 3) People Analytics DWH + Executive Dashboard
+### 4) People Analytics DWH + Executive Dashboard
 **BigQuery · dbt · Looker Studio**
 
 People Analytics warehouse for **headcount, hiring funnel, and attrition**, modeled into BI-ready marts and surfaced in an executive dashboard.
@@ -92,7 +125,7 @@ People Analytics warehouse for **headcount, hiring funnel, and attrition**, mode
 
 ---
 
-### 4) Fraud Detection Pipeline (FinTech Risk)
+### 5) Fraud Detection Pipeline (FinTech Risk)
 **Python · SQL · ML · Reporting**
 
 Fraud detection prototype on transaction data: feature engineering, model training, evaluation, and risk reporting.
